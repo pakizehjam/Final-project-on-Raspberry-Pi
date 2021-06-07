@@ -1,12 +1,12 @@
-# Final Project Raspberry Pi
+#   Final Project Raspberry Pi
 
 Using Telegram Bot with Raspberry Pi: Sharing Text and Files
 
-#Project Introduction
+# Project Introduction
 
 This Project is working on share data (files/photos/videos/audios/text) between Raspberry Pi and our Mobile phone through a popular chat application called Telegram. Mohammad Pakizeh jam is working on this project.
 
-#Project Background
+# Project Background
 
 This project is for final project on Raspberry Pi on CNA335 class. 
 
